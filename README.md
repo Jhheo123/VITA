@@ -11,8 +11,8 @@ This repository provides a reference implementation of VITA as described in the 
 * Taeri Kim (taerik@hanyang.ac.kr)
 * Jiho Heo (linda0123@hanyang.ac.kr)
 * Hongil Kim (hong0814@hanyang.ac.kr)
-* Kijung Shin (wook@hanyang.ac.kr)
-* Sang-Wook Kim (kijungs@kaist.ac.kr)
+* Kijung Shin (kijungs@kaist.ac.kr)
+* Sang-Wook Kim (wook@hanyang.ac.kr)
 
 ### Requirements
 The code has been tested running under Python 3.10.6. The required packages are as follows:
